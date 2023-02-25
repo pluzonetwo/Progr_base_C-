@@ -33,11 +33,24 @@ if (thirdNumber > maxNumber) maxNumber = thirdNumber;
 Console.Write($"Max number: {maxNumber}");
 */
 
-/* Task 3 Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
+/*  Task 3 Напишите программу, которая на вход принимает число и выдаёт, является ли число чётным (делится ли оно на два без остатка).
 
 Console.Write("Input number: ");
 int num = Convert.ToInt32(Console.ReadLine());
 
 if (num % 2 == 0) Console.Write($"Number {num} is even number");
 else Console.Write($"Number {num} is odd number");
+*/
+
+/* Task 4 Напишите программу, которая на вход принимает число (N), а на выходе показывает все чётные числа от 1 до N
+
+Console.Write("Input number: ");
+int num = Convert.ToInt32(Console.ReadLine());
+int count = 1;
+
+while (count <= num)
+{
+    if (count % 2 == 0) Console.Write($" {count} ");
+    count++;
+}
 */
