@@ -1,0 +1,15 @@
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\bin\Debug\net7.0\HomeWork8.exe
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\bin\Debug\net7.0\HomeWork8.deps.json
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\bin\Debug\net7.0\HomeWork8.runtimeconfig.json
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\bin\Debug\net7.0\HomeWork8.dll
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\bin\Debug\net7.0\HomeWork8.pdb
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.csproj.AssemblyReference.cache
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.AssemblyInfoInputs.cache
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.AssemblyInfo.cs
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.csproj.CoreCompileInputs.cache
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.dll
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\refint\HomeWork8.dll
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.pdb
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\HomeWork8.genruntimeconfig.cache
+C:\Users\permk\Geekbrains\Progr_base\HomeWork8\obj\Debug\net7.0\ref\HomeWork8.dll

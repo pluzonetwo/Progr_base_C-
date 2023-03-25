@@ -25,7 +25,7 @@ int[,] FillMatrixWithRandom(int row, int col)
     {
         for (int j = 0; j < array.GetLength(1); j++)
         {
-            array[i, j] = (rnd.Next(1, 11));
+            array[i, j] = (rnd.Next(1, 10));
         }
     }
     return array;
@@ -45,20 +45,25 @@ void PrintMatrix(int[,] someMatrix)
 
 int[,] SortElementsOnDecrease(int[,] someMatrix)
 {
-    int min = someMatrix[0, 0];
-    int temp;
-
     for (int i = 0; i < someMatrix.GetLength(0); i++)
     {
         for (int j = 0; j < someMatrix.GetLength(1); j++)
         {
-            if (min > someMatrix[i, j])
+            int pos = j;
+            int temp;
+
+            temp = someMatrix[i, j];
+            someMatrix[i, pos] = someMatrix[i, j];
+
+
+            for (int k = j + 1; k < someMatrix.GetLength(1); k++)
             {
-                min = someMatrix[i, j];
-                temp = someMatrix[i, someMatrix.GetLength(1) - 1 - j];
-                someMatrix[i, someMatrix.GetLength(1) - 1 - j] = min;
-                someMatrix[i, someMatrix.GetLength(1) - 2 - j] = temp;
+                if (someMatrix[i, k] > someMatrix[i, pos])
+                {
+                    pos = k;
+                }
             }
+
         }
     }
 
